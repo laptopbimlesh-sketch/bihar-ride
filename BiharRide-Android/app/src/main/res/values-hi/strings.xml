@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">बिहार राइड</string>
+    <string name="tagline">अपना राइड, अपना बिहार</string>
+    <string name="where_to_go">आप कहाँ जाना चाहते हैं?</string>
+    <string name="finding_driver">आस-पास ड्राइवर खोज रहे हैं…</string>
+    <string name="driver_assigned">ड्राइवर मिल गया!</string>
+    <string name="ride_started">सवारी शुरू हो गई</string>
+    <string name="ride_completed">सवारी पूरी हुई</string>
+</resources>

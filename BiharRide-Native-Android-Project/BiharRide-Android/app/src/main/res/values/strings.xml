@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bihar Ride</string>
+    <string name="tagline">Apna Ride, Apna Bihar</string>
+    <string name="where_to_go">Where do you want to go?</string>
+    <string name="finding_driver">Finding nearby drivers in Bihar…</string>
+    <string name="driver_assigned">Driver Assigned</string>
+    <string name="ride_started">Ride Started</string>
+    <string name="ride_completed">Ride Completed</string>
+</resources>
